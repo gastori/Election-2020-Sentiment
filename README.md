@@ -3,5 +3,6 @@
 Election 2020 sentiment analysis application based on Twitter feeds
 
 Notes:
+
 Notes 2:
 
