@@ -16,5 +16,5 @@
 
 
 ## Todo
- - Create NextJS with Chakra UI project with 'create-next-app' [Not Completed]
- - Convert NextJS project to use Typescript React (.tsx) instead of JavaScript [Not Completed]
+ - ~~Create NextJS with Chakra UI project with 'create-next-app'~~
+ - ~~Convert NextJS project to use Typescript React (.tsx) instead of JavaScript~~
