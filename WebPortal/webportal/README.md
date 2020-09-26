@@ -1,23 +1,20 @@
-# Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+# Front End
 
-This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app.
+## Design Prototype
+![Design Prototype](https://github.com/gastori/Project-Libertas/blob/okistuff.webportal/WebPortal/assets/prototype.PNG?raw=true)
+(Name will be changed to Project Libertas on the actual website instead of Elect AI)
 
-We are connecting the Next.js `_app.js` with `chakra-ui`'s Theme and ColorMode containers so the pages can have app-wide dark/light mode. We are also creating some components which shows the usage of `chakra-ui`'s style props.
 
-## Deploy your own
+[Click here to view the Prototype as a webpage](https://xd.adobe.com/embed/2fcd7020-32d0-4eff-b6be-9e38b932d440-7a9e/?fullscreen "Adobe XD presentation")
 
-Deploy the example using [Vercel](https://vercel.com):
+## Tools I will be using
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-chakra-ui)
+ - [Typescript](https://www.typescriptlang.org/ "Made by Microsoft, Compiles into JS")
+ - [React](https://reactjs.org/ "JavaScript Framework from Facebook")
+ - [NextJS](https://nextjs.org/ "React Framework from Vercel")
+ - [ChakraUI](https://chakra-ui.com/ "React/Next.JS Framework to help with UI")
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-chakra-ui with-chakra-ui-app
-# or
-yarn create next-app --example with-chakra-ui with-chakra-ui-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Todo
+ - ~~Create NextJS with Chakra UI project with 'create-next-app'~~
+ - ~~Convert NextJS project to use Typescript React (.tsx) instead of JavaScript~~
