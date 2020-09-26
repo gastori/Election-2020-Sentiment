@@ -1,7 +1,7 @@
 # Front End
 
 ## Design Prototype
-![Design Prototype](./assets/prototype.png)
+![Design Prototype](https://github.com/gastori/Project-Libertas/blob/okistuff.webportal/WebPortal/assets/prototype.PNG?raw=true)
 (Name will be changed to Project Libertas on the actual website instead of Elect AI)
 
 
